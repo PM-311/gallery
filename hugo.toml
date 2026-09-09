@@ -1,0 +1,13 @@
+baseURL = "https://cm032.github.io/gallery"
+copyright = "© CM032 - 2026"
+defaultContentLanguage = "es"
+enableRobotsTXT = true
+languageCode = "es-ES"
+theme = "gallery"
+title = "Galería CM032"
+timeZone = "America/Lima"
+timeout = "120s"
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
